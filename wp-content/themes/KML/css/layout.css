@@ -905,7 +905,7 @@
 	/*--------------------------------------------------------------
 	16.0 - Totop
 	--------------------------------------------------------------*/
-	#toTop { position: fixed; display: none; text-decoration: none; bottom: 10px; right: 10px; overflow: hidden; width:23px; height:57px; border: none; text-indent: 100%; background: url(../images/totop.gif) no-repeat right bottom; z-index: 999; text-indent: -9999px; background-size:23px 57px; -webkit-animation:myfirst 1s infinite; -webkit-animation-direction:alternate; animation:myfirst 1s infinite; animation-direction:alternate;}
+	#toTop { position: fixed; display: none; text-decoration: none; bottom: 10px; right: 10px; overflow: hidden; width:40px; height:57px; border: none; text-indent: 100%; background: url(../images/totop.gif) no-repeat right bottom; z-index: 999; text-indent: -9999px; background-size:40px 57px; -webkit-animation:myfirst 1s infinite; -webkit-animation-direction:alternate; animation:myfirst 1s infinite; animation-direction:alternate;}
 	
 
 	#toTop:active, #toTop:focus { outline:none; }
